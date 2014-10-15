@@ -3,7 +3,6 @@ package com.edu.unitri.aula3;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import javax.swing.Action;
 
 public class operacaoController {
     
